@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: e072332c591c2114e8352415f0093b6c
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 1969250966248326025
+    second: treeTop|changeling-idle.002
+  - first:
+      74: 4965940818258989157
+    second: treeTop.001|changeling-idle.003
+  - first:
+      74: -3755469445734881740
+    second: treeTop.002|changeling-idle.004
+  - first:
+      74: 2260703815052091348
+    second: treeTop.003|changeling-idle.005
+  - first:
+      74: -4819244034620700747
+    second: treeTop.004|changeling-idle.006
+  - first:
+      74: 227997215078866344
+    second: treeTop.005|changeling-idle.007
+  - first:
+      74: 4523033039256849168
+    second: treeTop.006|changeling-idle.008
+  - first:
+      74: -7996009617948914678
+    second: treeTop.007|changeling-idle.009
+  - first:
+      74: 3435396797712704492
+    second: treeTop.008|changeling-idle.010
+  - first:
+      74: -6615491376698030540
+    second: treeTop.009|changeling-idle.011
+  - first:
+      74: 1350187604717283800
+    second: treeTop.010|changeling-idle.012
+  - first:
+      74: 4730963368417396054
+    second: treeTop.011|changeling-idle.013
+  - first:
+      74: 486729315893614593
+    second: treeTop.012|changeling-idle.014
+  - first:
+      74: 2228169630120859024
+    second: treeTop.013|changeling-idle.015
+  - first:
+      74: 5435915011365464014
+    second: treeTop.014|changeling-idle.016
+  - first:
+      74: 6031010120491105618
+    second: treeTop.015|changeling-idle.017
+  - first:
+      74: -7026731404996133148
+    second: treeTop.016|changeling-idle.018
+  - first:
+      74: -5539204448937080779
+    second: treeTop.017|changeling-idle.019
+  - first:
+      74: -3993063214045338674
+    second: treeTop.018|changeling-idle.020
+  - first:
+      74: -424556415919116931
+    second: treeTop.019|changeling-idle.021
+  - first:
+      74: 1950822114516858277
+    second: treeTop.020|changeling-idle.022
+  - first:
+      74: 5739905561899575684
+    second: treeTop.021|changeling-idle.023
+  - first:
+      74: -3523706480467516314
+    second: treeTop.022|changeling-idle.024
+  - first:
+      74: -6274775011848139767
+    second: MotherTree|changeling-idle
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CLIFF
+    second: {fileID: 2100000, guid: ba0cb6db454999546a8945f7c7a9a10d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 6e6e687fc06460f4bbdb56fdcbde16bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: forestWall
+    second: {fileID: 2100000, guid: 0147c274b5c44b14cb546f3b18190db6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treeBark
+    second: {fileID: 2100000, guid: dcd37cbd6887d04498093caacff5cead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treetops
+    second: {fileID: 2100000, guid: 43ec8eedf0027f64cb3c91c4e86bab74, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

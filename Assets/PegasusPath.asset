@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d1ba94d185a45d4c9bb7b88b2e31ca4, type: 3}
+  m_Name: PegasusPath
+  m_EditorClassIdentifier: 
+  m_defaultSpeed: 8
+  m_path:
+  - m_location: {x: -0.42072296, y: 1.3094945, z: -8.484985}
+    m_rotationEuler: {x: -0.000000084466265, y: 1.9773535, z: -8.98447e-12}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 5.947098, y: 1.31, z: 0.7058716}
+    m_rotationEuler: {x: -0.0000002413641, y: 2.102593, z: -7.095937e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: -0.39273065, y: 1.31, z: 13.926819}
+    m_rotationEuler: {x: -0.0000002752468, y: 2.1029365, z: -1.2539733e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: -0.14207077, y: 1.31, z: 21.697083}
+    m_rotationEuler: {x: -0.00000029124539, y: 2.102937, z: 6.7248054e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 4.5175056, y: 1.31, z: 29.646301}
+    m_rotationEuler: {x: -0.0000003552921, y: 2.1029334, z: -6.758321e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 5.4590225, y: 1.31, z: 44.545654}
+    m_rotationEuler: {x: -0.00000047465957, y: 2.1029313, z: -2.9798615e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 12.204132, y: 1.31, z: 49.429993}
+    m_rotationEuler: {x: -0.00000055037276, y: 2.1033206, z: -2.1100592e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 11.994648, y: 1.309999, z: 58.747803}
+    m_rotationEuler: {x: -0.00000060601184, y: 2.1033506, z: -5.088888e-13}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 18.128586, y: 1.31, z: 69.89691}
+    m_rotationEuler: {x: -0.0000007450489, y: 2.103345, z: -3.9588364e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 23.385895, y: 1.31, z: 83.16199}
+    m_rotationEuler: {x: -0.00000083749853, y: 2.1034021, z: -1.2587045e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 31.01007, y: 1.309999, z: 106.23529}
+    m_rotationEuler: {x: -0.00000083023184, y: 233.99754, z: -0.0000000018463502}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 21.769226, y: 1.31, z: 100.90564}
+    m_rotationEuler: {x: -0.00000068900033, y: 232.22693, z: -2.955626e-10}
+    m_dofDistance: {x: 0, y: 0, z: 0}
+  - m_location: {x: 10.430056, y: 1.31, z: 88.02649}
+    m_rotationEuler: {x: -0.00000059617713, y: 232.17535, z: 8.5187975e-11}
+    m_dofDistance: {x: 0, y: 0, z: 0}
